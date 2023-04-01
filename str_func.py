@@ -1,3 +1,9 @@
 def str_func(mess):
-    '''функция вывода заглавных букв'''
     return(mess.upper())
+
+
+def title(mess):
+    """вывод первых заглавных букв
+    """
+    return(mess.title())
+
